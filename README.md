@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Parsa, a 25 years old web developer from Iran.
+I'm Parsa, a 25 years old back-end developer from Iran.
 
 ## Skills
 - 👨‍💻 Express JS , Node JS , Next JS , React JS , HTML , CSS ,JavaScript
