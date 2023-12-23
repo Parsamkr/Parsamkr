@@ -1,20 +1,16 @@
-### Hi there 👋
+<h1 align="center">
+<!--   <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" /> -->
+</h1>
 
-I'm Parsa Mokhtarpour
-A back-end developer with experience in Express JS, Node JS and Next JS
-and I’m currently learning Nest JS
+## Hey! 👋
+I'm Parsa, a 25 years old web developer from Iran.
 
-<!--
-**Parsamkr/Parsamkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- 👨‍💻 Express JS , Node JS , Next JS , React JS , HTML , CSS ,JavaScript
+- 💽 MongoDB , Postgresql
++ a lot more :D
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [parsa-mokhtarpour.ir](https://parsa-mokhtarpour.ir)
+- [@parsa_mokhtarpour](https://www.instagram.com/parsa_mokhtarpour/) on Instagram
+- [@parsamkr](https://t.me/parsamkr) on Telegram
