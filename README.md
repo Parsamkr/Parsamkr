@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Parsa Mokhtarpour
-A back-end developer with experience in Express JS, Node JS and Next JS\n
+A back-end developer with experience in Express JS, Node JS and Next JS
 and I’m currently learning Nest JS
 
 <!--
