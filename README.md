@@ -3,7 +3,7 @@ I'm Parsa, a 26 years old back-end developer from Iran.
 
 ## Skills
 - 👨‍💻 Express JS , Node JS , Next JS , React JS , HTML , CSS ,JavaScript
-- 💽 MongoDB , Postgresql
+- 💽 MongoDB , Mysql
 + a lot more :D
 
 ## Contact
