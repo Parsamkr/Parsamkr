@@ -1,9 +1,12 @@
 ## Hey! 👋
-I'm Parsa, a 26 years old back-end developer from Iran.
+I'm Parsa, a full-stack developer from Iran — mainly focused on **full stack engineering**, **serverless apps**, and **edge-first architectures** using Cloudflare Workers & Hono.  
+I’ve built platforms, SaaS tools, APIs, Telegram bots, restaurant websites, and multi-tenant systems.
 
 ## Skills
-- 👨‍💻 Express JS , Node JS , Next JS , HTML , CSS ,JavaScript
-- 💽 MongoDB , Mysql
+- 👨‍💻 Node.js , Express.js , Hono , Next.js , React.js , HTML , CSS , JavaScript
+- ⚡ Cloudflare Workers , Serverless
+- 🤖 Telegraf (Telegram Bots) , Prisma , REST APIs
+- 💽 Cloudflare D1 , SQLite , MongoDB , MySQL
 + a lot more :D
 
 ## Contact
